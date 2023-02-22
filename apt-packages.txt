@@ -1,0 +1,52 @@
+apt install build-essential
+apt-get install libssl-dev
+apt-get install slop
+apt-get install nordvpn
+apt install emacs
+apt install stow
+apt install tmux
+apt install neovim
+apt install vim-scripts
+apt install libtemplate-perl
+apt install universal-ctags
+apt install python3.10-venv
+apt install openbox
+apt-get install ubuntu-desktop
+apt-get install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev
+apt install xsel
+apt install openjdk-17-jdk
+apt-get install oracle-java17-installer oracle-java17-set-default
+apt install xcompmgr
+apt-get install fuse libfuse2
+apt install --assume-yes chromium-browser
+apt install qbittorrent
+apt install bat
+apt install tableplus
+apt-get --yes -oDebug::pkgDepCache::AutoInstall=yes install casper fonts-arphic-ukai fonts-arphic-uming gnome-user-docs-de gnome-user-docs-es gnome-user-docs-fr gnome-user-docs-it gnome-user-docs-pt gnome-user-docs-ru gnome-user-docs-zh-hans ibus-chewing ibus-libpinyin ibus-m17n ibus-table-cangjie ibus-table-cangjie-big ibus-table-cangjie3 ibus-table-cangjie5 ibus-table-quick-classic ibus-table-wubi language-pack-de language-pack-de-base language-pack-en language-pack-en-base language-pack-es language-pack-es-base language-pack-fr language-pack-fr-base language-pack-gnome-de language-pack-gnome-de-base language-pack-gnome-en language-pack-gnome-en-base language-pack-gnome-es language-pack-gnome-es-base language-pack-gnome-fr language-pack-gnome-fr-base language-pack-gnome-it language-pack-gnome-it-base language-pack-gnome-pt language-pack-gnome-pt-base language-pack-gnome-ru language-pack-gnome-ru-base language-pack-gnome-zh-hans language-pack-gnome-zh-hans-base language-pack-it language-pack-it-base language-pack-pt language-pack-pt-base language-pack-ru language-pack-ru-base language-pack-zh-hans language-pack-zh-hans-base libchewing3 libchewing3-data liblua5.3-0 libm17n-0 libmarisa0 libopencc-data libopencc1.1 libotf1 libpinyin-data libpinyin13 m17n-db fonts-arphic-ukai fonts-arphic-uming gnome-user-docs-de gnome-user-docs-es gnome-user-docs-fr gnome-user-docs-it gnome-user-docs-pt gnome-user-docs-ru gnome-user-docs-zh-hans hunspell-de-at-frami hunspell-de-ch-frami hunspell-de-de-frami hunspell-en-au hunspell-en-ca hunspell-en-gb hunspell-en-za hunspell-es hunspell-fr hunspell-fr-classical hunspell-it hunspell-pt-br hunspell-pt-pt hunspell-ru hyphen-de hyphen-en-ca hyphen-en-gb hyphen-en-us hyphen-es hyphen-fr hyphen-it hyphen-pt-br hyphen-pt-pt hyphen-ru ibus-chewing ibus-libpinyin ibus-m17n ibus-table-cangjie ibus-table-cangjie-big ibus-table-cangjie3 ibus-table-cangjie5 ibus-table-quick-classic ibus-table-wubi language-pack-de language-pack-de-base language-pack-en language-pack-en-base language-pack-es language-pack-es-base language-pack-fr language-pack-fr-base language-pack-gnome-de language-pack-gnome-de-base language-pack-gnome-en language-pack-gnome-en-base language-pack-gnome-es language-pack-gnome-es-base language-pack-gnome-fr language-pack-gnome-fr-base language-pack-gnome-it language-pack-gnome-it-base language-pack-gnome-pt language-pack-gnome-pt-base language-pack-gnome-ru language-pack-gnome-ru-base language-pack-gnome-zh-hans language-pack-gnome-zh-hans-base language-pack-it language-pack-it-base language-pack-pt language-pack-pt-base language-pack-ru language-pack-ru-base language-pack-zh-hans language-pack-zh-hans-base libabw-0.1-1 libboost-filesystem1.74.0 libboost-iostreams1.74.0 libboost-locale1.74.0 libboost-thread1.74.0 libchewing3 libchewing3-data libclucene-contribs1v5 libclucene-core1v5 libe-book-0.1-1 libeot0 libepubgen-0.1-1 libetonyek-0.1-1 libexttextcat-2.0-0 libexttextcat-data libgpgmepp6 liblangtag-common liblangtag1 liblua5.3-0 libm17n-0 libmarisa0 libmhash2 libmwaw-0.3-3 libmythes-1.2-0 libodfgen-0.1-1 libopencc-data libopencc1.1 liborcus-0.17-0 liborcus-parser-0.17-0 libotf1 libpinyin-data libpinyin13 libraptor2-0 librasqal3 librdf0 libreoffice-base-core libreoffice-common libreoffice-core libreoffice-help-common libreoffice-help-de libreoffice-help-en-gb libreoffice-help-en-us libreoffice-help-es libreoffice-help-fr libreoffice-help-it libreoffice-help-pt libreoffice-help-pt-br libreoffice-help-ru libreoffice-help-zh-cn libreoffice-help-zh-tw libreoffice-l10n-de libreoffice-l10n-en-gb libreoffice-l10n-en-za libreoffice-l10n-es libreoffice-l10n-fr libreoffice-l10n-it libreoffice-l10n-pt libreoffice-l10n-pt-br libreoffice-l10n-ru libreoffice-l10n-zh-cn libreoffice-l10n-zh-tw libreoffice-math libreoffice-style-colibre libreoffice-writer librevenge-0.0-0 libuno-cppu3 libuno-cppuhelpergcc3-3 libuno-purpenvhelpergcc3-3 libuno-sal3 libuno-salhelpergcc3-3 libwpd-0.10-10 libwpg-0.3-3 libwps-0.4-4 libxmlsec1 libxmlsec1-nss libyajl2 m17n-db mythes-de mythes-de-ch mythes-en-au mythes-en-us mythes-es mythes-fr mythes-it mythes-pt-pt mythes-ru python3-uno thunderbird thunderbird-locale-de thunderbird-locale-en thunderbird-locale-en-gb thunderbird-locale-en-us thunderbird-locale-es thunderbird-locale-es-ar thunderbird-locale-es-es thunderbird-locale-fr thunderbird-locale-it thunderbird-locale-pt thunderbird-locale-pt-br thunderbird-locale-pt-pt thunderbird-locale-ru thunderbird-locale-zh-cn thunderbird-locale-zh-hans thunderbird-locale-zh-hant thunderbird-locale-zh-tw uno-libs-private ure wbrazilian wbritish wfrench witalian wngerman wogerman wportuguese wspanish wswiss adcli btrfs-progs busybox-initramfs cifs-utils cryptsetup cryptsetup-bin cryptsetup-initramfs dbus-x11 dctrl-tools dmeventd dmraid dpkg-repack efibootmgr gir1.2-timezonemap-1.0 gir1.2-xkl-1.0 gparted gparted-common grub-common grub-efi-amd64-bin grub-efi-amd64-signed grub-gfxpayload-lists grub-pc grub-pc-bin grub2-common gtk-im-libthai ibus-hangul ibus-mozc ibus-unikey initramfs-tools initramfs-tools-bin initramfs-tools-core jfsutils keyutils klibc-utils kpartx kpartx-boot libaio1 libdebian-installer4 libdevmapper-event1.02.1 libdmraid1.0.0.rc16 libdpkg-perl libefivar1 libfile-fcntllock-perl libhangul-data libhangul1 libinih1 libklibc liblvm2cmd2.03 liblzo2-2 libnvpair3linux libtimezonemap-data libtimezonemap1 libuutil3linux libzfs4linux libzpool5linux linux-base lvm2 mokutil mozc-data mozc-server os-prober python3-icu python3-pam rdate realmd reiserfsprogs shim-signed thin-provisioning-tools ubiquity ubiquity-casper ubiquity-frontend-gtk ubiquity-slideshow-ubuntu ubiquity-ubuntu-artwork wamerican xfsprogs zfs-initramfs zfs-zed zfsutils-linux zstd zsys -y
+apt-get install curl
+apt-get install zsh
+apt-get install git
+apt-get install xclip
+apt-get install fonts-3270
+apt-get install dirmngr gpg curl gawk
+apt-get install apt-transport-https
+apt install bspwm sxhkd
+apt install feh rofi
+apt install polybar
+apt-get install spotify-client
+apt install dunst
+apt install autoconf gcc make pkg-config libpam0g-dev libcairo2-dev libfontconfig1-dev libxcb-composite0-dev libev-dev libx11-xcb-dev libxcb-xkb-dev libxcb-xinerama0-dev libxcb-randr0-dev libxcb-image0-dev libxcb-util0-dev libxcb-xrm-dev libxkbcommon-dev libxkbcommon-x11-dev libjpeg-dev
+apt install exa
+apt install fd-find
+apt-get install ripgrep
+apt install zoxide
+apt-get -y install picom
+apt-get install git gcc make libx11-dev libxtst-dev pkg-config
+apt-get install mpd
+apt install trayer
+apt install jq
+apt install mpv fzf
+apt install python3-pip
+apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+apt install wmname --fix-missing
+apt install libxext-dev libxcb1-dev libxcb-damage0-dev libxcb-dpms0-dev libxcb-xfixes0-dev libxcb-shape0-dev libxcb-render-util0-dev libxcb-render0-dev libxcb-randr0-dev libxcb-composite0-dev libxcb-image0-dev libxcb-present-dev libxcb-glx0-dev libpixman-1-dev libdbus-1-dev libconfig-dev libgl-dev libegl-dev libpcre2-dev libevdev-dev uthash-dev libev-dev libx11-xcb-dev meson --fix-missing
